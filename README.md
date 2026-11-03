@@ -2,7 +2,7 @@
 
 **An Excel dashboard exploring Xbox Game Pass sales and the impact of discount coupons.**
 
-
+![Xbox_dataset_and_dashboard - Anna Sponquiado](Xbox_dataset_and_dashboard - Anna Sponquiado.JPG) 
 
 ## About this project
 
